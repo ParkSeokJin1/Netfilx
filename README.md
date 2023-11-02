@@ -1,8 +1,14 @@
 # 넷플릭스 클론코딩
 
+https://netfilx-rho.vercel.app/
 
+넷플릭스 페이지를 보고 클론코딩 을 한 프로젝트 입니다. (추가 업데이트 예정)
 
-## npm install framer-motion 사용
+<br/>
+
+📅 기간 : 2023. 10. 20 ~ 2023. 10. 26
+
+### npm install framer-motion 사용
 
 사용하면 좋은점:
 framer Motion 세계에서, 그 값들은, motionValue 는
