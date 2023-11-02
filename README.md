@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# 넷플릭스 클론코딩
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## npm install framer-motion 사용
 
-### `npm start`
+사용하면 좋은점:
+framer Motion 세계에서, 그 값들은, motionValue 는
+react세계에 속하지 않는다.
+box를 움직임에도 컴포넌트는 재 랜더링 되지 않는다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 1.넷플릭스 로고 위에 마우스를 가져다 대면 반복되는 애니메이션 적용(svg 색상 변경)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2. 어디에 있는지에 따라 ex) Home 이나 Tv show 에 있다면 내가 어디있는지를 나타내기 위해 동그라미 적용
+( useMatch 사용 해서 circle을 보여주도록 적용 ), layoutId 를 사용해서 동그라미가 옮겨다니도록 애니메이션 추가
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. 검색창 이미지를 누르면 input을 보여주기.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+(animate를 사용해 x축으로 이동)
+useAnimation 사용해서 애니메이션을 다른곳에서부터 실행시키고 있다.
+코드로부터 애니메이션을 실행 -> 애니메이션을 실행시키는 또 하나의 방법
+애니메이션을 동시에 실행시키고 싶을때 유용하고 중요하다.
 
-### `npm run eject`
+### 4. 스크롤을 내리면 헤더의 색을 변경하기.
+useViewportScroll 사용
+모션값을 준다. 모션값은 스크롤을 움직일 때 제일 밑에서부터 얼마나 멀리 있는지를 알려준다.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
