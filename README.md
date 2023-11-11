@@ -19,14 +19,21 @@ https://netfilx-rho.vercel.app/
 
 ## Skills & Tools 🛠
 
-✔  React.js
-✔  recoil
-✔  react-router
-✔  react-query
-✔  react-hook-form
-✔  styled-components
-✔  framer-motion
-✔  react-icons
+✔ React.js
+
+✔ recoil
+
+✔ react-router
+
+✔ react-query
+
+✔ react-hook-form
+
+✔ styled-components
+
+✔ framer-motion
+
+✔ react-icons
 
 <br>
 
