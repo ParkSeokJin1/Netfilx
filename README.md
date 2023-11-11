@@ -8,23 +8,27 @@ https://netfilx-rho.vercel.app/
 
 📌 Point
 
-* Animations
-* Sliders
-* Modals
+✔ Animations
+
+✔ Sliders
+
+✔ Modals
 
 <br>
 
 
-## Skills & Tools
+## Skills & Tools 🛠
 
-- [x] React.js
-- [x] recoil
-- [x] react-router
-- [x] react-query
-- [x] react-hook-form
-- [x] styled-components
-- [x] framer-motion
-- [x] react-icons
+✔  React.js
+✔  recoil
+✔  react-router
+✔  react-query
+✔  react-hook-form
+✔  styled-components
+✔  framer-motion
+✔  react-icons
+
+<br>
 
 ## API
 
