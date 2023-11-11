@@ -4,6 +4,17 @@ https://netfilx-rho.vercel.app/
 
 넷플릭스 페이지를 보고 클론코딩 을 한 프로젝트 입니다. (추가 업데이트 예정)
 
+<br>
+
+📌 Point
+
+* Animations
+* Sliders
+* Modals
+
+<br>
+
+
 ## Skills & Tools
 
 - [x] React.js
