@@ -4,6 +4,21 @@ https://netfilx-rho.vercel.app/
 
 넷플릭스 페이지를 보고 클론코딩 을 한 프로젝트 입니다. (추가 업데이트 예정)
 
+## Skills & Tools
+
+- [x] React.js
+- [x] recoil
+- [x] react-router
+- [x] react-query
+- [x] react-hook-form
+- [x] styled-components
+- [x] framer-motion
+- [x] react-icons
+
+## API
+
+- [x] [TMDB](https://developers.themoviedb.org/3)
+
 <br/>
 
 📅 기간 : 2023. 10. 20 ~ 2023. 10. 27
