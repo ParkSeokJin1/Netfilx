@@ -4,6 +4,8 @@ https://netfilx-rho.vercel.app/
 
 넷플릭스 페이지를 보고 클론코딩 을 한 프로젝트 입니다. (추가 업데이트 예정)
 
+![image](https://github.com/ParkSeokJin1/Netfilx/assets/134951090/f8af22b9-0f10-4bca-b3c7-c7fefe510926)
+
 <br>
 
 📌 Point
